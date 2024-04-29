@@ -4,22 +4,8 @@
   justify-content: center;
   align-items: center;
 ">
-<div style="
-    background-color: #00000090;
-    width: 100%;
-    height: 40px;
-    display: flex;
-    justify-content: center;
-    align-content: center;
-    align-items: center;
-    text-align: center;
-    margin: 40px 0;
-    padding: 25px 10px 0 10px;
-    box-shadow: 0px 2px 2px 1px #00000090, 0px -2px 2px 1px #00000090;
-">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=5000&color=FFFFFF&center=true&vCenter=true&repeat=false&random=false&width=1024&height=60&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
-</div>
 </div>
 
 ## •ᴗ• About me 
