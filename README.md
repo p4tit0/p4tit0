@@ -1,7 +1,4 @@
 <div style="
-  background-image: url('https://i.pinimg.com/564x/9c/13/20/9c13201dd1539ff50a8075ba28a898da.jpg');
-  background-repeat: repeat;
-  background-size: 35%;
   Background-color: #ffdb8f;
   display: flex;
   justify-content: center;
